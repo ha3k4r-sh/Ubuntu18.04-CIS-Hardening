@@ -16,5 +16,4 @@ If you face any issue - please reach me at aadham.m@outlook.com
     [+] Open the bash terminal and download the script from GitHub using the following command:
     
     wget https://raw.githubusercontent.com/ha3k4r-sh/Ubuntu18.04-CIS-Hardening/main/ubuntu18.04_hardening.sh
-    sudo su
-    bash ubuntu18.04_hardening.sh
+    sudo bash ubuntu18.04_hardening.sh
