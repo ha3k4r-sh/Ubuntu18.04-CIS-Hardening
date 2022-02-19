@@ -15,6 +15,6 @@ If you face any issue - please reach me at aadham.m@outlook.com
     [+] Make sure you are logged in to the virtual machine as a root user.
     [+] Open the bash terminal and download the script from GitHub using the following command:
     
-    wget https://raw.githubusercontent.com/ha3k4r-sh/Ubuntu18.04-CIS-Hardening/main/ubuntu_18.04_hardening.sh
+    wget https://raw.githubusercontent.com/ha3k4r-sh/Ubuntu18.04-CIS-Hardening/main/ubuntu18.04_hardening.sh
     sudo su
-    bash ubuntu_18.04_hardening.sh 
+    bash ubuntu18.04_hardening.sh
